@@ -1,0 +1,25 @@
+
+{
+  "name": "flex-grid-zhu",
+  "description": "flex grid.",
+  "main": "dist/flex-grid-zhu.scss",
+  "authors": [
+    "smalleast"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/smalleast/flex-grid-zhu",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

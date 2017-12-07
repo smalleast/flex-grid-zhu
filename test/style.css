@@ -1,0 +1,6 @@
+@import url(../dist/flex-grid-zhu.css);
+@import url(../node_modules/flex-scss/dist/flex-scss.css);
+.col {
+  border: 1px solid #f00;
+  height: 100px;
+}
